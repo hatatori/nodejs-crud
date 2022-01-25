@@ -17,7 +17,6 @@ Use these links in the browser.
 
 ### Return all
 `localhost:8000/list`
-> Return all
 
 ### Return individual result
 `localhost:8000/list/name/betina`
