@@ -1,3 +1,7 @@
+### Clone
+git clone https://github.com/hatatori/nodejs-crud
+
+### Start server
 Type `node index.js` on terminal to start server.
 
 Use these links in the browser.
