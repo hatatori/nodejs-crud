@@ -15,14 +15,14 @@ Use these links in the browser.
 ### Create data on json
 `localhost:8000/create?name=betina&email=betina@gmail.com&senha=betina`
 
-### Return all results from json
+### Return all
 `localhost:8000/list`
 
-### Return individual result from json
+### Return individual result
 `localhost:8000/list/name/betina`
 
-### Update information from json
+### Update individual data
 `localhost:8000/update/name/betina?email=sim&senha=123`
 
-### Delete information from json
+### Delete individual data
 `localhost:8000/del/name/betina`
