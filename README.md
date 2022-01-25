@@ -12,16 +12,16 @@ Use these links in the browser.
 
 ## Crud
 
-### Create
+### Create data on json
 `localhost:8000/create?name=betina&email=betina@gmail.com&senha=betina`
 
-### List All
+### Return all results from json
 `localhost:8000/list`
 
-### List individual result
+### Return individual result from json
 `localhost:8000/list/name/betina`
 
-### Update information
+### Update information from json
 `localhost:8000/update/name/betina?email=sim&senha=123`
 
 ### Delete information from json
