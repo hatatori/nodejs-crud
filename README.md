@@ -9,6 +9,8 @@ Type `node index.js` on terminal to start server.
 
 Use these links in the browser.
 
+## Crud
+
 ### Create
 `localhost:8000/create?name=betina&email=betina@gmail.com&senha=betina`
 
