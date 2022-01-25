@@ -1,3 +1,4 @@
+## Server
 ### Description
 Simple CRUD JSON file.
 
