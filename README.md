@@ -1,5 +1,5 @@
 ### Clone
-git clone https://github.com/hatatori/nodejs-crud
+`git clone https://github.com/hatatori/nodejs-crud`
 
 ### Start server
 Type `node index.js` on terminal to start server.
